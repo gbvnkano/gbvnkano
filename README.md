@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @gbvnkano
+- 👀 I’m interested in quality management, automation testing, and leveraging technology to optimize processes 
+- 🌱 I’m currently learning Cypress for automated testing
+- 💞️ I’m looking to collaborate on projects that improve software quality, implement efficient workflows, or involve innovative approaches to quality
+- 📫 How to reach me via LinkedIn or email—let’s connect and share ideas!
+- 😄 Pronouns: she/her
